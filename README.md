@@ -13,6 +13,7 @@ Full Stack Developer in training
 
 ## A little more about me...
 
+```javascript
 const andres_zapata = {
   code: ["Javascript", "Typescript", "HTML", "CSS"],
   tools: ["React", "Redux","RxJs"],
@@ -31,6 +32,7 @@ const andres_zapata = {
   ],
   challenge: "I am doing some hackrank´s page challenges, and i´m woriking on my portfolio as junior dev"
 }
+```
 
 
 

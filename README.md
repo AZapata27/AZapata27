@@ -11,6 +11,26 @@ Full Stack Developer in progress
 - 📫 How to reach me: Azapata@uc.edu.co
 
 
+## A little more about me...
+
+const andres_zapata = {
+  code: ["Javascript", "Typescript", "HTML", "CSS"],
+  tools: ["React", "Redux","RxJs"],
+  architecture: ["Design System Pattern, MVC"],
+  preprocessor: ["SASS", "LESS"],
+  techCommunities: {
+     organizer: "ParqueSoft",
+     fandom: "JsConf"
+  },
+  languages: [English, Spanish, Portuguese]
+  socialnetworks: [ 
+     facebook: "https://facebook.com/pipe.zaristizabal/", 
+     instagram: "https://instagram.com/FelipeZapata27"
+  ],
+  challenge: "I am doing some hackrank´s page challenges, and i´m woriking on my portfolio as junior dev"
+}
+
+
 
 <!--
 **AZapata27/AZapata27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

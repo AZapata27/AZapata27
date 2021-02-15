@@ -8,8 +8,7 @@ Full Stack Developer in training
 
 - 👯 I'm looking to collaborate on a Software developer company, full time - remote or located in Colombia
 
-- 📫 Contact me: Azapata@uc.edu.co
--      Linkedin: [Andres Zapata](https://www.linkedin.com/in/andres-zapata-aristizabal/)
+- 📫 Contact me: Azapata@uc.edu.co,  Linkedin: - [Andres Zapata](https://www.linkedin.com/in/andres-zapata-aristizabal/)
 
 
 ## A little more about me...

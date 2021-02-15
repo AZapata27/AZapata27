@@ -1,6 +1,6 @@
-### Hi i´m Andres 👋
+### Hi there, i´m Andres 👋
 
-Full Stack Developer in progress
+Full Stack Developer in training
 
 - 🔭 I am currently working at TigoUne Pereira as an intern in systems management 
 
@@ -22,10 +22,12 @@ const andres_zapata = {
      organizer: "ParqueSoft",
      fandom: "JsConf"
   },
-  languages: [English, Spanish, Portuguese]
+  languages: ["English", "Spanish", "Portuguese"],
   socialnetworks: [ 
      facebook: "https://facebook.com/pipe.zaristizabal/", 
-     instagram: "https://instagram.com/FelipeZapata27"
+     instagram: "https://instagram.com/FelipeZapata27",
+     github: "https://github.com/AZapata27",
+     hackerranck: " https://hackerrank.com/afzar27 ",
   ],
   challenge: "I am doing some hackrank´s page challenges, and i´m woriking on my portfolio as junior dev"
 }

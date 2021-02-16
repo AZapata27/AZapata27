@@ -4,7 +4,7 @@ Full Stack Developer in training
 
 - 🔭 I am currently working at TigoUne Pereira as an intern in systems management 
 
-- 🌱 I’m currently learning JavaScript and ReactJS to built awesome frontend
+- 🌱 I´v been learning JavaScript and ReactJS to built awesome interactive frontend
 
 - 👯 I'm looking to collaborate on a Software developer company, full time - remote or located in Colombia
 

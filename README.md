@@ -23,7 +23,7 @@ const andres_zapata = {
      organizer: "ParqueSoft",
      fandom: "JsConf"
   },
-  languages: ["English", "Spanish", "Portuguese"],
+  languages: ["English", "Spanish"],
   socialnetworks: [ 
      facebook: "https://facebook.com/pipe.zaristizabal/", 
      instagram: "https://instagram.com/FelipeZapata27",

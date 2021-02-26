@@ -1,6 +1,6 @@
 ### Hi there, i´m Andres 👋
 
-Full Stack Developer in training
+Frontend Developer in training
 
 - 🔭 I am currently working at TigoUne Pereira as an intern in systems management 
 

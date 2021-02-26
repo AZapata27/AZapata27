@@ -6,7 +6,7 @@ Frontend Developer in training
 
 - 🌱 I´v been learning JavaScript and ReactJS to built awesome interactive frontend
 
-- 👯 I'm looking to collaborate on a Software developer company, full time - remote or located in Colombia
+- ⚡ I'm looking to collaborate on a Software developer company, full time - remote or located in Colombia
 
 - 📫 Contact me: Azapata@uc.edu.co,  Linkedin: - [Andres Zapata](https://www.linkedin.com/in/andres-zapata-aristizabal/)
 
@@ -16,7 +16,7 @@ Frontend Developer in training
 ```javascript
 const andres_zapata = {
   code: ["Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["React", "Redux","RxJs"],
+  tools: ["React", "Vue", "Redux", "RxJs"],
   architecture: ["Design System Pattern, MVC"],
   preprocessor: ["SASS", "LESS"],
   techCommunities: {

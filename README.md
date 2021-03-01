@@ -28,7 +28,7 @@ const andres_zapata = {
      facebook: "https://facebook.com/pipe.zaristizabal/", 
      instagram: "https://instagram.com/FelipeZapata27",
      github: "https://github.com/AZapata27",
-     hackerranck: " https://hackerrank.com/afzar27 ",
+     hackerranck: " https://hackerrank.com/afzar27",
   ],
   challenge: "I am doing some hackrank´s page challenges, and i´m woriking on my portfolio as junior dev"
 }

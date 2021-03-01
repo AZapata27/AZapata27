@@ -20,7 +20,7 @@ const andres_zapata = {
   architecture: ["Design System Pattern, MVC"],
   preprocessor: ["SASS", "LESS"],
   techCommunities: {
-     organizer: "ParqueSoft",
+     organizer: "ParqueSoft ti",
      fandom: "JsConf"
   },
   languages: ["English", "Spanish"],

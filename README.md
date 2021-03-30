@@ -16,13 +16,13 @@ Frontend Developer in training
 ```javascript
 const andres_zapata = {
   code: ["Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["React", "Vue", "Redux", "RxJs"],
+  tools: ["React", "Angular", "Redux", "RxJs"],
   architecture: ["Design System Pattern, MVC"],
   preprocessor: ["SASS", "LESS"],
   modulebundlers : "WebPack",
   taskrunner : "Gulp",
   techCommunities: {
-     organizer: "ParqueSoft ti",
+     organizer: "ParqueSoft",
      fandom: "JsConf"
   },
   languages: ["English", "Spanish"],

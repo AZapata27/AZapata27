@@ -12,7 +12,7 @@ FullStack Developer in training
 ## A little more about me...
 
 ```javascript
-const andres_zapata = {
+const andres_Zapata = {
   code: ["Javascript", "Typescript", "HTML", "CSS"],
   tools: ["React", "Angular", "Redux", "RxJs"],
   architecture: ["Design System Pattern, MVC, SOLID"],

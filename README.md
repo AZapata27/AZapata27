@@ -2,7 +2,7 @@
 
 FullStack Developer in training
 
-- ⚡ I am currently working at Indra Pereira as an Software Engineer 1
+- ⚡ I am currently working at Indra Pereira
 
 - 🌱 I´v been learning JavaScript Angular and ReactJS to built awesome interactive frontend
 

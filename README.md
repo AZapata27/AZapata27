@@ -2,7 +2,7 @@
 
 FullStack Developer in training
 
-- ⚡ I am currently working at TigoUne Pereira as an intern in systems management 
+- ⚡ I am currently working at Indra Pereira as an Software Engineer 1
 
 - 🌱 I´v been learning JavaScript Angular and ReactJS to built awesome interactive frontend
 

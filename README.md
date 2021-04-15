@@ -15,14 +15,10 @@ FullStack Developer in training
 const andres_zapata = {
   code: ["Javascript", "Typescript", "HTML", "CSS"],
   tools: ["React", "Angular", "Redux", "RxJs"],
-  architecture: ["Design System Pattern, MVC"],
+  architecture: ["Design System Pattern, MVC, SOLID"],
   preprocessor: ["SASS", "LESS"],
   modulebundlers : "WebPack",
   taskrunner : "Gulp",
-  techCommunities: {
-     organizer: "ParqueSoft",
-     fandom: "JsConf"
-  },
   languages: ["English", "Spanish"],
   socialnetworks: [ 
      facebook: "https://facebook.com/pipe.zaristizabal/", 

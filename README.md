@@ -13,8 +13,8 @@ FullStack Developer in training
 
 ```javascript
 const andres_Zapata = {
-  code: ["Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["React", "Angular", "Redux", "RxJs"],
+  code: ["Javascript", "NodeJS, "Typescript", "HTML", "CSS"],
+  tools: ["React", "Angular", "Express", "Redux", "RxJs"],
   architecture: ["Design System Pattern, MVC, SOLID"],
   preprocessor: ["SASS", "LESS"],
   modulebundlers : "WebPack",

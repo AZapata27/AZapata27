@@ -2,7 +2,7 @@
 
 FullStack Developer in training
 
-- ⚡ I am currently working at Indra Pereira
+- ⚡ I am currently working at Indra Colombia
 
 - 🌱 I´v been learning JavaScript Angular and ReactJS to built awesome interactive frontend
 

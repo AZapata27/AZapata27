@@ -20,14 +20,14 @@ const andres_Zapata = {
   architecture: ["Design System Pattern, MVC, SOLID, KISS"],
   preprocessor: ["SASS", "LESS"],
   modulebundlers : "WebPack",
-  taskrunner : "Gulp",
+  taskrunner : "Gulp", "Maven, "Npm"
   languages: ["English", "Spanish"],
   socialnetworks: [ 
      instagram: "https://instagram.com/FelipeZapata27",
      github: "https://github.com/AZapata27",
      hackerranck: " https://hackerrank.com/afzar27",
   ],
-  challenge: "I am doing some hackrank´s page challenges, and i´m woriking on my portfolio as junior dev"
+  challenge: "I am doing some hackrank´s page challenges, and i´m woriking on my portfolio as dev"
 }
 ```
 

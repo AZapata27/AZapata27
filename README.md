@@ -2,7 +2,9 @@
 
 FullStack JAVA | ANGULAR Developer
 
-- ⚡ I am currently working at Indra Colombia
+- ⚡ I'm currently working at Indra Colombia
+
+- 👨‍💻  I'm highly skilled in Java and backend development
 
 - 🌱 I´v been learning JavaScript Angular and ReactJS to built awesome interactive frontend
 
@@ -21,7 +23,6 @@ const andres_Zapata = {
   taskrunner : "Gulp",
   languages: ["English", "Spanish"],
   socialnetworks: [ 
-     facebook: "https://facebook.com/pipe.zaristizabal/", 
      instagram: "https://instagram.com/FelipeZapata27",
      github: "https://github.com/AZapata27",
      hackerranck: " https://hackerrank.com/afzar27",
@@ -30,19 +31,3 @@ const andres_Zapata = {
 }
 ```
 
-
-
-<!--
-**AZapata27/AZapata27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

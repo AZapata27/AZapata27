@@ -1,6 +1,6 @@
 ### Hi there!, i´m Andres Software Engineer from Colombia 👋
 
-FullStack Developer in training
+FullStack JAVA | ANGULAR Developer
 
 - ⚡ I am currently working at Indra Colombia
 

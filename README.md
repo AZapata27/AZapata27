@@ -28,15 +28,7 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
-<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" viewBox="0 0 256 346">
-  <path d="M83 267s-14 8 9 11c27 3 41 2 71-3 0 0 8 5 19 9-67 29-153-2-99-17M74 230s-15 11 8 13c29 3 52 3 92-4 0 0 6 5 15 8-82 24-173 2-115-17" fill="#5382A1"/>
-  <path d="M144 166c17 19-4 36-4 36s42-22 22-49c-18-26-32-38 44-82 0 0-119 29-62 95" fill="#E76F00"/>
-  <path d="M233 295s10 8-10 15c-39 12-163 15-197 0-12-5 11-13 18-14l12-2c-14-9-89 19-38 28 138 22 251-10 215-27M89 190s-63 15-22 21c17 2 51 2 83-1 26-2 52-7 52-7l-16 9c-64 16-187 8-151-9 30-14 54-13 54-13M202 253c64-33 34-66 13-61l-7 2s2-3 6-5c41-14 73 43-14 66l2-2" fill="#5382A1"/>
-  <path d="M162 0s36 36-34 91c-56 45-12 70 0 99-32-30-56-56-40-80 23-35 89-53 74-110" fill="#E76F00"/>
-  <path d="M95 345c62 4 158-3 160-32 0 0-4 11-51 20-53 10-119 9-158 2 0 0 8 7 49 10" fill="#5382A1"/>
-</svg>
-
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIiB2aWV3Qm94PSIwIDAgMjU2IDM0NiI+PHBhdGggZD0iTTgzIDI2N3MtMTQgOCA5IDExYzI3IDMgNDEgMiA3MS0zIDAgMCA4IDUgMTkgOS02NyAyOS0xNTMtMi05OS0xN003NCAyMzBzLTE1IDExIDggMTNjMjkgMyA1MiAzIDkyLTQgMCAwIDYgNSAxNSA4LTgyIDI0LTE3MyAyLTExNS0xNyIgZmlsbD0iIzUzODJBMSIvPjxwYXRoIGQ9Ik0xNDQgMTY2YzE3IDE5LTQgMzYtNCAzNnM0Mi0yMiAyMi00OWMtMTgtMjYtMzItMzggNDQtODIgMCAwLTExOSAyOS02MiA5NSIgZmlsbD0iI0U3NkYwMCIvPjxwYXRoIGQ9Ik0yMzMgMjk1czEwIDgtMTAgMTVjLTM5IDEyLTE2MyAxNS0xOTcgMC0xMi01IDExLTEzIDE4LTE0bDEyLTJjLTE0LTktODkgMTktMzggMjggMTM4IDIyIDI1MS0xMCAyMTUtMjdNODkgMTkwcy02MyAxNS0yMiAyMWMxNyAyIDUxIDIgODMtMSAyNi0yIDUyLTcgNTItN2wtMTYgOWMtNjQgMTYtMTg3IDgtMTUxLTkgMzAtMTQgNTQtMTMgNTQtMTNNMjAyIDI1M2M2NC0zMyAzNC02NiAxMy02MWwtNyAyczItMyA2LTVjNDEtMTQgNzMgNDMtMTQgNjZsMi0yIiBmaWxsPSIjNTM4MkExIi8+PHBhdGggZD0iTTE2MiAwczM2IDM2LTM0IDkxYy01NiA0NS0xMiA3MCAwIDk5LTMyLTMwLTU2LTU2LTQwLTgwIDIzLTM1IDg5LTUzIDc0LTExMCIgZmlsbD0iI0U3NkYwMCIvPjxwYXRoIGQ9Ik05NSAzNDVjNjIgNCAxNTgtMyAxNjAtMzIgMCAwLTQgMTEtNTEgMjAtNTMgMTAtMTE5IDktMTU4IDIgMCAwIDggNyA0OSAxMCIgZmlsbD0iIzUzODJBMSIvPjwvc3ZnPg==)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)

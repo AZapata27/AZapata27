@@ -22,8 +22,7 @@ const andres_Zapata = {
   modulebundlers : "WebPack",
   taskrunner : "Gulp", "Maven, "Npm"
   languages: ["English", "Spanish"],
-  socialnetworks: [ 
-     instagram: "https://instagram.com/FelipeZapata27",
+  socialnetworks: [
      github: "https://github.com/AZapata27",
      hackerranck: " https://hackerrank.com/afzar27",
   ],

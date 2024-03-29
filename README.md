@@ -19,7 +19,7 @@
 - :school: I am a Senior FullStack Developer
 - :technologist: **Currently working on** `Backend Java` **&** `Angular Frontend`
 - :boom: You can visit [MY WEBSITE](https) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Andres Zapata&amp;color=EA4335&amp;style=flat-square)](mailto:afzar27@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Andres_Zapata&amp;color=EA4335&amp;style=flat-square)](mailto:afzar27@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>

@@ -34,6 +34,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-008080?style=flat-square&logo=Spring&logoColor=white)
+![Express](https://img.shields.io/badge/Express-008080?style=flat-square&logo=express&logoColor=white)
+
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
 

@@ -30,9 +30,8 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIiB2aWV3Qm94PSIwIDAgMjU2IDM0NiI+PHBhdGggZD0iTTgzIDI2N3MtMTQgOCA5IDExYzI3IDMgNDEgMiA3MS0zIDAgMCA4IDUgMTkgOS02NyAyOS0xNTMtMi05OS0xN003NCAyMzBzLTE1IDExIDggMTNjMjkgMyA1MiAzIDkyLTQgMCAwIDYgNSAxNSA4LTgyIDI0LTE3MyAyLTExNS0xNyIgZmlsbD0iIzUzODJBMSIvPjxwYXRoIGQ9Ik0xNDQgMTY2YzE3IDE5LTQgMzYtNCAzNnM0Mi0yMiAyMi00OWMtMTgtMjYtMzItMzggNDQtODIgMCAwLTExOSAyOS02MiA5NSIgZmlsbD0iI0U3NkYwMCIvPjxwYXRoIGQ9Ik0yMzMgMjk1czEwIDgtMTAgMTVjLTM5IDEyLTE2MyAxNS0xOTcgMC0xMi01IDExLTEzIDE4LTE0bDEyLTJjLTE0LTktODkgMTktMzggMjggMTM4IDIyIDI1MS0xMCAyMTUtMjdNODkgMTkwcy02MyAxNS0yMiAyMWMxNyAyIDUxIDIgODMtMSAyNi0yIDUyLTcgNTItN2wtMTYgOWMtNjQgMTYtMTg3IDgtMTUxLTkgMzAtMTQgNTQtMTMgNTQtMTNNMjAyIDI1M2M2NC0zMyAzNC02NiAxMy02MWwtNyAyczItMyA2LTVjNDEtMTQgNzMgNDMtMTQgNjZsMi0yIiBmaWxsPSIjNTM4MkExIi8+PHBhdGggZD0iTTE2MiAwczM2IDM2LTM0IDkxYy01NiA0NS0xMiA3MCAwIDk5LTMyLTMwLTU2LTU2LTQwLTgwIDIzLTM1IDg5LTUzIDc0LTExMCIgZmlsbD0iI0U3NkYwMCIvPjxwYXRoIGQ9Ik05NSAzNDVjNjIgNCAxNTgtMyAxNjAtMzIgMCAwLTQgMTEtNTEgMjAtNTMgMTAtMTE5IDktMTU4IDIgMCAwIDggNyA0OSAxMCIgZmlsbD0iIzUzODJBMSIvPjwvc3ZnPg==)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Node.Js](https://img.shields.io/badge/Node-3776AB?style=flat-square&logo=Node&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development

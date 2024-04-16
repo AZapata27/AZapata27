@@ -19,9 +19,9 @@
 - Senior FullStack Developer with 5+ years of experience
 - I have knowledge of software architecture, clean code, best practices and design patterns, implemented in projects with great scalability and a significant user base
 - :technologist: **Currently working on** `Java | NodeJs Backend` **&** `Angular | React Frontend`
-- :boom: You can visit [My Website](https://www.andres-zapata.dev/) for some frontend and backend knowledge
-- :email: **Lets talk** [Linkedin](https://www.linkedin.com/in/andres-zapata-aristizabal/)
-- :nerd_face: `"Never Stop Learning Because Life Never Stops Teaching "`
+- :page: You can visit [My Website](https://www.andres-zapata.dev/) for some frontend and backend knowledge
+- **Lets talk** [Linkedin](https://www.linkedin.com/in/andres-zapata-aristizabal/)
+- `"Never Stop Learning Because Life Never Stops Teaching "`
 
 <br>
 

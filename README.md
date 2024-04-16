@@ -20,7 +20,7 @@
 - I have knowledge of software architecture, clean code, best practices and design patterns, implemented in projects with great scalability and a significant user base
 - :technologist: **Currently working on** `Java | NodeJs Backend` **&** `Angular | React Frontend`
 - :boom: You can visit [MY WEBSITE](https://www.andres-zapata.dev/) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Andres_Zapata&amp;color=EA4335&amp;style=flat-square)](mailto:afzar27@gmail.com)
+- :email: **Lets talk** [Linkedin](https://www.linkedin.com/in/andres-zapata-aristizabal/)
 - :nerd_face: `"Never Stop Learning Because Life Never Stops Teaching "`
 
 <br>

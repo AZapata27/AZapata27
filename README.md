@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a Senior FullStack Developer with 5+ years of experience
+- Senior FullStack Developer with 5+ years of experience
 - I have knowledge of software architecture, clean code, best practices and design patterns, implemented in projects with great scalability and a significant user base
 - :technologist: **Currently working on** `Java | NodeJs Backend` **&** `Angular | React Frontend`
 - :boom: You can visit [MY WEBSITE](https://www.andres-zapata.dev/) for some frontend knowledge

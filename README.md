@@ -107,10 +107,4 @@
 </tr>
 </table>
 
-</p>        
-
------------
-
-Credit: [AZapata27](https://github.com/AZapata27)
-
-Last Edited on: 28/3/2024
+</p>

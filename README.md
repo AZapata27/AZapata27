@@ -3,7 +3,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Andres Zapata</h1></summary>
+    <summary><h1 style="display: inline-block">Andres Zapata</h1></summary>
   </ul>
 </div>
 
@@ -11,7 +11,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- Senior FullStack Developer with 5+ years of experience
+- Senior FullStack Developer with 6+ years of experience
 - I have knowledge of software architecture, clean code, best practices and design patterns, implemented in projects with great scalability and a significant user base
 - :technologist: **Currently working on** `Java | NodeJs Backend` **&** `Angular | React Frontend`
 - You can visit [My Website](https://www.andres-zapata.dev/) for some frontend and backend knowledge

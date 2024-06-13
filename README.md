@@ -27,7 +27,6 @@
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIiB2aWV3Qm94PSIwIDAgMjU2IDM0NiI+PHBhdGggZD0iTTgzIDI2N3MtMTQgOCA5IDExYzI3IDMgNDEgMiA3MS0zIDAgMCA4IDUgMTkgOS02NyAyOS0xNTMtMi05OS0xN003NCAyMzBzLTE1IDExIDggMTNjMjkgMyA1MiAzIDkyLTQgMCAwIDYgNSAxNSA4LTgyIDI0LTE3MyAyLTExNS0xNyIgZmlsbD0iIzUzODJBMSIvPjxwYXRoIGQ9Ik0xNDQgMTY2YzE3IDE5LTQgMzYtNCAzNnM0Mi0yMiAyMi00OWMtMTgtMjYtMzItMzggNDQtODIgMCAwLTExOSAyOS02MiA5NSIgZmlsbD0iI0U3NkYwMCIvPjxwYXRoIGQ9Ik0yMzMgMjk1czEwIDgtMTAgMTVjLTM5IDEyLTE2MyAxNS0xOTcgMC0xMi01IDExLTEzIDE4LTE0bDEyLTJjLTE0LTktODkgMTktMzggMjggMTM4IDIyIDI1MS0xMCAyMTUtMjdNODkgMTkwcy02MyAxNS0yMiAyMWMxNyAyIDUxIDIgODMtMSAyNi0yIDUyLTcgNTItN2wtMTYgOWMtNjQgMTYtMTg3IDgtMTUxLTkgMzAtMTQgNTQtMTMgNTQtMTNNMjAyIDI1M2M2NC0zMyAzNC02NiAxMy02MWwtNyAyczItMyA2LTVjNDEtMTQgNzMgNDMtMTQgNjZsMi0yIiBmaWxsPSIjNTM4MkExIi8+PHBhdGggZD0iTTE2MiAwczM2IDM2LTM0IDkxYy01NiA0NS0xMiA3MCAwIDk5LTMyLTMwLTU2LTU2LTQwLTgwIDIzLTM1IDg5LTUzIDc0LTExMCIgZmlsbD0iI0U3NkYwMCIvPjxwYXRoIGQ9Ik05NSAzNDVjNjIgNCAxNTgtMyAxNjAtMzIgMCAwLTQgMTEtNTEgMjAtNTMgMTAtMTE5IDktMTU4IDIgMCAwIDggNyA0OSAxMCIgZmlsbD0iIzUzODJBMSIvPjwvc3ZnPg==)
 ![Node.Js](https://img.shields.io/badge/Node.Js-3776AB?style=flat-square&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-008080?style=flat-square&logo=Spring&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-008080?style=flat-square&logo=express&logoColor=white)
 
@@ -45,13 +44,10 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
 
-![Hive](https://img.shields.io/badge/Hive-FF7A00?style=flat-square&logo=Hive&logoColor=white)
 ![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
 ![ApacheHadoop](https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
 

@@ -11,7 +11,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- Senior FullStack Developer with 6+ years of experience
+- Senior FullStack Developer with 7+ years of experience
 - I have knowledge of software architecture, clean code, best practices and design patterns, implemented in projects with great scalability.
 - :technologist: **Currently working on** `Java | NodeJs Backend | KAFKA, RabbitMQ` **&** `Angular | React Frontend`
 - You can visit [My Website](https://www.andres-zapata.dev/) for some frontend and backend knowledge

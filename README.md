@@ -11,7 +11,7 @@
 
 - Senior FullStack Developer with 8+ years of experience
 - Software architecture, clean code, best practices and design patterns, implemented in projects with great scalability.
-- :technologist: **Currently working on** `Java | Golang | NodeJs Backend | KAFKA, RabbitMQ` **&** `Angular | React Frontend`
+- :technologist: **Currently working on** `Java | Golang | NodeJs` **&** `Angular | React | Flutter`
 - You can visit [My Website](https://www.andres-zapata.dev/) for some frontend and backend knowledge
 - **Lets talk** [Linkedin](https://www.linkedin.com/in/andres-zapata-aristizabal/)
 

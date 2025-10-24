@@ -9,10 +9,10 @@
 
 ## About me
 
-- Senior FullStack Developer with 8+ years of experience
-- Software architecture, clean code, best practices and design patterns, implemented in projects with great scalability.
-- :technologist: **Currently working on** `Java | Golang | NodeJs` **&** `Angular | React | Flutter`
-- You can visit [My Website](https://www.andres-zapata.dev/) for some frontend and backend knowledge
+- Senior FullStack Developer with 10+ years of experience
+- Specialized in software architecture, solution design in AWS and JVM ecosystem, implemented in highly scalable projects for Fintechs in Colombia.
+- :technologist: **Currently working on** `Java | Kotlin |  Golang | NodeJs` **&** `Angular | React | Flutter`
+- You can visit [My Website](https://www.andres-zapata.dev/)
 - **Lets talk** [Linkedin](https://www.linkedin.com/in/andres-zapata-aristizabal/)
 
 <br>

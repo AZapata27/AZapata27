@@ -9,11 +9,15 @@
 ## 🏗️ Senior FullStack Developer & Software Architect
 I am a builder of scalable, mission-critical digital solutions with over **10 years of experience**. My expertise lies in designing complex **Software Architectures** (Clean Architecture, Microservices, DDD, Event Driven Architecture) for high-demand ecosystems like **Fintech** and **Insurtech**.
 
-- 🔭 **Architecture & Design:** Specialist in design patterns, Cloud Native topologies (AWS/Azure), and Microservices orchestration.
-- ⚡ **Backend & Streaming:** Expert in the JVM ecosystem (**Java/Kotlin**), **Node.js** frameworks like **NestJS**. Proficient in **Go**, **Python**, and **C#**. I specialize in **Data Streaming Architectures** using the full **Kafka** stack.
-- 🎨 **Frontend:** Crafting modular and high-performance interfaces using **React** and **Angular**.
-- 🤖 **AI Engineering:** Developing next-gen applications with **LLMs, RAGs, and Agentic workflows** using LangChain4j and Spring AI.
-- 🛠️ **AI-Driven Productivity:** Leveraging **Spec-Driven Development**, Prompt/Context Engineering, and Agentic IDEs (Claude Code/Junie Jetbrains) to accelerate delivery.
+- 🔭 **Architecture & Design:** Expert in **Cloud-Native** solutions (AWS/Azure) aligned with the **Well-Architected Framework**. Specialist in microservices orchestration, **Service Mesh** implementation, and end-to-end observability (Distributed Tracing, Metrics, and Logs), with a deep focus on **Domain-Driven Design (DDD)** tactical patterns.
+  
+- ⚡ **Backend & Streaming:** Expert in the **JVM ecosystem** (Java/Kotlin) and **Node.js** (NestJS), with proficiency in **Go, Python, and C#**. I specialize in **Data Streaming Architectures** leveraging the full **Kafka** stack for high-throughput systems.
+  
+- 🎨 **Frontend:** Crafting modular, scalable, and high-performance interfaces using **React** and **Angular**.
+  
+- 🤖 **AI Engineering:** Developing next-gen applications powered by **LLMs, MCP apis, RAGs, Tooling, and Agentic workflows** using **LangChain4j** and **Spring AI**.
+  
+- 🛠️ **AI-Driven Productivity:** Optimizing the SDLC through **Spec-Driven Development**, advanced Prompt Engineering, and Agentic IDEs (**Claude Code / Junie**) to accelerate high-quality delivery.
 
 ---
 

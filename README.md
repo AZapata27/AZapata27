@@ -1,11 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Andres Zapata</h1></summary>
-  </ul>
-</div>
-
 ## 🏗️ Senior FullStack Developer & Software Architect
 I am a builder of scalable, mission-critical digital solutions with over **10 years of experience**. My expertise lies in designing complex **Software Architectures** (Clean Architecture, Microservices, DDD, Event Driven Architecture) for high-demand ecosystems like **Fintech** and **Insurtech**.
 

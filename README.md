@@ -49,6 +49,8 @@ I am deeply passionate about **Technical Leadership** and fostering high-perform
 
 > **Streaming Expertise:** Deeply experienced in **Kafka Connect (Debezium)** for CDC, **Kafka Streams** for real-time processing, and Schema Registry for data governance.
 
+---
+
 ### 🤖 AI Development & Tools
 *Integrating Intelligence into Software Engineering and its entire life cycle.*
 
@@ -63,6 +65,8 @@ I am deeply passionate about **Technical Leadership** and fostering high-perform
 * **Workflow:** Spec-Driven Development, Advanced Prompt & Context Engineering.
 * **AI Agents (Usage):** **Claude Code** & **Junie Jetbrains** as primary autonomous agents for coding and refactoring.
 
+---
+
 ### 💻 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -71,6 +75,8 @@ I am deeply passionate about **Technical Leadership** and fostering high-perform
 ![WebComponents](https://img.shields.io/badge/Web_Components-FFA500?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white)
 
 * **Architecture:** Micro-frontends, **Web Components (Shadow DOM/Custom Elements)**, Component-Driven Development (Atomic Design), and State Management (Redux/NgRx).
+
+---
 
 ### 📊 Infrastructure, Cloud & Data
 *Designing resilient environments and high-volume data processing pipelines.*
@@ -87,6 +93,37 @@ I am deeply passionate about **Technical Leadership** and fostering high-perform
 * **Data Engineering:** High-performance processing with **Apache Spark**, and management of enterprise-grade relational systems (**Oracle** & **PostgreSQL**).
 * **Storage Patterns:** Expertise in SQL, NoSQL (Redis for distributed caching), and Graph Databases (Neo4j).
 * **DevOps:** Kubernetes orchestration, Helm, and CI/CD automation.
+
+**Observability Stack:**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-FFFFFF?style=for-the-badge&logo=grafana&logoColor=black)
+![Tempo](https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+---
+
+### ⚡ Reliability, Performance & Chaos Engineering
+*Ensuring system stability and performance under extreme conditions.*
+
+**Performance & Load Testing:**
+![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Gatling](https://img.shields.io/badge/Gatling-FF9E0F?style=for-the-badge&logo=gatling&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate_DSL-000000?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
+**Profiling & Runtime Analysis:**
+![VisualVM](https://img.shields.io/badge/VisualVM-FF6600?style=for-the-badge&logo=java&logoColor=white)
+![Flight_Recorder](https://img.shields.io/badge/JFR-Oracle-red?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Chaos Engineering & Resiliency:**
+![Chaos_Engineering](https://img.shields.io/badge/Chaos_Mesh-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Toxiproxy](https://img.shields.io/badge/Toxiproxy-FF9E0F?style=for-the-badge&logo=envoyproxy&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+* **Performance:** **Gatling** and **k6** for high-concurrency load scenarios test.
+* **Deep Profiling:** JVM analysis using **Java Flight Recorder (JFR)** and **VisualVM** for memory leak detection and thread contention analysis.
+* **Chaos Engineering:** Injecting controlled failures with **Toxiproxy** (network latency/partition) and **Chaos Mesh** to validate system self-healing **AWS Fault Injection Service**.
 
 ---
 

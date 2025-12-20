@@ -1,4 +1,3 @@
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="user-content-toc">
@@ -7,72 +6,86 @@
   </ul>
 </div>
 
-## About me
+## 🏗️ Senior FullStack Developer & Software Architect
+I am a builder of scalable, mission-critical digital solutions with over **10 years of experience**. My expertise lies in designing complex **Software Architectures** (Clean Architecture, Microservices, DDD, Event Driven Architecture) for high-demand ecosystems like **Fintech** and **Insurtech**.
 
-- Senior FullStack Developer with 10+ years of experience
-- Specialized in software architecture, solution design in AWS and JVM ecosystem, implemented in highly scalable projects for Fintechs in Colombia.
-- :technologist: **Currently working on** `Java | Kotlin |  Golang | NodeJs` **&** `Angular | React | Flutter`
-- You can visit [My Website](https://www.andres-zapata.dev/)
-- **Lets talk** [Linkedin](https://www.linkedin.com/in/andres-zapata-aristizabal/)
+- 🔭 **Architecture & Design:** Specialist in design patterns, Cloud Native topologies (AWS/Azure), and Microservices orchestration.
+- ⚡ **Backend & Streaming:** Expert in the JVM ecosystem (**Java/Kotlin**), **Node.js** frameworks like **NestJS**. Proficient in **Go**, **Python**, and **C#**. I specialize in **Data Streaming Architectures** using the full **Kafka** stack.
+- 🎨 **Frontend:** Crafting modular and high-performance interfaces using **React** and **Angular**.
+- 🤖 **AI Engineering:** Developing next-gen applications with **LLMs, RAGs, and Agentic workflows** using LangChain4j and Spring AI.
+- 🛠️ **AI-Driven Productivity:** Leveraging **Spec-Driven Development**, Prompt/Context Engineering, and Agentic IDEs (Claude Code/Junie Jetbrains) to accelerate delivery.
 
-<br>
+---
 
-## 🛠️ Skills
+## 👥 Engineering Leadership & Coaching
+I am deeply passionate about **Technical Leadership** and fostering high-performance engineering cultures. My approach combines technical excellence with people-centric growth.
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+- **Scale & Impact:** Successfully led and managed over **200+ people** across diverse technology teams over the last **5 years**.
+- **Performance & Quality:** Champion of high-performance standards, promoting **Code Quality**, **SOLID principles**, and **Engineering Best Practices**.
+- **Technical Coaching:** Dedicated mentor and coach, empowering developers to transition into senior and architectural roles.
 
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIiB2aWV3Qm94PSIwIDAgMjU2IDM0NiI+PHBhdGggZD0iTTgzIDI2N3MtMTQgOCA5IDExYzI3IDMgNDEgMiA3MS0zIDAgMCA4IDUgMTkgOS02NyAyOS0xNTMtMi05OS0xN003NCAyMzBzLTE1IDExIDggMTNjMjkgMyA1MiAzIDkyLTQgMCAwIDYgNSAxNSA4LTgyIDI0LTE3MyAyLTExNS0xNyIgZmlsbD0iIzUzODJBMSIvPjxwYXRoIGQ9Ik0xNDQgMTY2YzE3IDE5LTQgMzYtNCAzNnM0Mi0yMiAyMi00OWMtMTgtMjYtMzItMzggNDQtODIgMCAwLTExOSAyOS02MiA5NSIgZmlsbD0iI0U3NkYwMCIvPjxwYXRoIGQ9Ik0yMzMgMjk1czEwIDgtMTAgMTVjLTM5IDEyLTE2MyAxNS0xOTcgMC0xMi01IDExLTEzIDE4LTE0bDEyLTJjLTE0LTktODkgMTktMzggMjggMTM4IDIyIDI1MS0xMCAyMTUtMjdNODkgMTkwcy02MyAxNS0yMiAyMWMxNyAyIDUxIDIgODMtMSAyNi0yIDUyLTcgNTItN2wtMTYgOWMtNjQgMTYtMTg3IDgtMTUxLTkgMzAtMTQgNTQtMTMgNTQtMTNNMjAyIDI1M2M2NC0zMyAzNC02NiAxMy02MWwtNyAyczItMyA2LTVjNDEtMTQgNzMgNDMtMTQgNjZsMi0yIiBmaWxsPSIjNTM4MkExIi8+PHBhdGggZD0iTTE2MiAwczM2IDM2LTM0IDkxYy01NiA0NS0xMiA3MCAwIDk5LTMyLTMwLTU2LTU2LTQwLTgwIDIzLTM1IDg5LTUzIDc0LTExMCIgZmlsbD0iI0U3NkYwMCIvPjxwYXRoIGQ9Ik05NSAzNDVjNjIgNCAxNTgtMyAxNjAtMzIgMCAwLTQgMTEtNTEgMjAtNTMgMTAtMTE5IDktMTU4IDIgMCAwIDggNyA0OSAxMCIgZmlsbD0iIzUzODJBMSIvPjwvc3ZnPg==)
-![Kotlin](https://img.shields.io/badge/Kotlin-3776AB?style=flat-square&logo=kotlin&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-3776AB?style=flat-square&logo=Go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Node.Js](https://img.shields.io/badge/Node.Js-3776AB?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-008080?style=flat-square&logo=Spring&logoColor=white)
-![Express](https://img.shields.io/badge/Express-008080?style=flat-square&logo=express&logoColor=white)
+---
 
+## 🛠️ Technical Stack
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
+### 🚀 Backend & Event Streaming
+*Focused on high-throughput, decoupling, and event-driven consistency.*
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-CB3837?style=flat-square&logo=Angular&logoColor=white)
-![React](https://img.shields.io/badge/React-1572B6?style=flat-square&logo=React&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
+*Core Expertise:*
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Kafka Streams](https://img.shields.io/badge/Kafka_Streams-FFCA28?style=for-the-badge&logo=apache-kafka&logoColor=black)
 
+*Proficient in:*
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
+> **Streaming Expertise:** Deeply experienced in **Kafka Connect (Debezium)** for CDC, **Kafka Streams** for real-time processing, and Schema Registry for data governance.
 
-![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
-![ApacheHadoop](https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
+### 🤖 AI Development & Tools
+*Integrating Intelligence into Software Engineering and its entire life cycle.*
 
-<br>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+* **Development:** LangChain4j, Spring AI, RAG (Retrieval-Augmented Generation), Agent Construction.
+* **Standards & MCP:** API **MCPs (Model Context Protocol)**, Tooling, and Function Calling.
+* **Workflow:** Spec-Driven Development, Advanced Prompt & Context Engineering.
+* **AI Agents (Usage):** **Claude Code** & **Junie Jetbrains** as primary autonomous agents for coding and refactoring.
 
-<!--- stats & Trophy (start)   -->
+### 💻 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![WebComponents](https://img.shields.io/badge/Web_Components-FFA500?style=for-the-badge&logo=webcomponents&logoColor=white)
 
-<p align="left">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=AZapata27&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AZapata27&theme=dark&hide_border=false" /> 
-</td>
+* **Architecture:** Micro-frontends, **Web Components (Shadow DOM/Custom Elements)**, Component-Driven Development (Atomic Design), and State Management (Redux/NgRx).
 
+### 📊 Infrastructure, Cloud & Data
+*Designing resilient environments and high-volume data processing pipelines.*
 
-<td width="50%" align="center">
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AZapata27&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+* **Data Engineering:** High-performance processing with **Apache Spark**, and management of enterprise-grade relational systems (**Oracle** & **PostgreSQL**).
+* **Storage Patterns:** Expertise in SQL, NoSQL (Redis for distributed caching), and Graph Databases (Neo4j).
+* **DevOps:** Kubernetes orchestration, Helm, and CI/CD automation.
 
-  </td>
-</tr>
-</table>
+---
 
-</p>
+## 📫 Let's Connect
+- 🌐 [Visit My Website](https://www.andres-zapata.dev/)
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/andres-zapata-aristizabal/)

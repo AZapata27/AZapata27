@@ -9,6 +9,8 @@
 ## 🏗️ Senior FullStack Developer & Software Architect
 I am a builder of scalable, mission-critical digital solutions with over **10 years of experience**. My expertise lies in designing complex **Software Architectures** (Clean Architecture, Microservices, DDD, Event Driven Architecture) for high-demand ecosystems like **Fintech** and **Insurtech**.
 
+<br/>
+
 - 🔭 **Architecture & Design:** Expert in **Cloud-Native** solutions (AWS/Azure) aligned with the **Well-Architected Framework**. Specialist in microservices orchestration, **Service Mesh** implementation, and end-to-end observability (Distributed Tracing, Metrics, and Logs), with a deep focus on **Domain-Driven Design (DDD)** tactical patterns.
   
 - ⚡ **Backend & Streaming:** Expert in the **JVM ecosystem** (Java/Kotlin) and **Node.js** (NestJS), with proficiency in **Go, Python, and C#**. I specialize in **Data Streaming Architectures** leveraging the full **Kafka** stack for high-throughput systems.
@@ -19,6 +21,8 @@ I am a builder of scalable, mission-critical digital solutions with over **10 ye
   
 - 🛠️ **AI-Driven Productivity:** Optimizing the SDLC through **Spec-Driven Development**, advanced Prompt Engineering, and Agentic IDEs (**Claude Code / Junie**) to accelerate high-quality delivery.
 
+<br/>
+
 ---
 
 ## 👥 Engineering Leadership & Coaching
@@ -27,6 +31,8 @@ I am deeply passionate about **Technical Leadership** and fostering high-perform
 - **Scale & Impact:** Successfully led and managed over **200+ people** across diverse technology teams over the last **5 years**.
 - **Performance & Quality:** Champion of high-performance standards, promoting **Code Quality**, **SOLID principles**, and **Engineering Best Practices**.
 - **Technical Coaching:** Dedicated mentor and coach, empowering developers to transition into senior and architectural roles.
+
+<br/>
 
 ---
 
@@ -49,6 +55,8 @@ I am deeply passionate about **Technical Leadership** and fostering high-perform
 
 > **Streaming Expertise:** Deeply experienced in **Kafka Connect (Debezium)** for CDC, **Kafka Streams** for real-time processing, and Schema Registry for data governance.
 
+<br/>
+
 ---
 
 ### 🤖 AI Development & Tools
@@ -65,6 +73,8 @@ I am deeply passionate about **Technical Leadership** and fostering high-perform
 * **Workflow:** Spec-Driven Development, Advanced Prompt & Context Engineering.
 * **AI Agents (Usage):** **Claude Code** & **Junie Jetbrains** as primary autonomous agents for coding and refactoring.
 
+<br/>
+
 ---
 
 ### 💻 Frontend Development
@@ -75,6 +85,8 @@ I am deeply passionate about **Technical Leadership** and fostering high-perform
 ![WebComponents](https://img.shields.io/badge/Web_Components-FFA500?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white)
 
 * **Architecture:** Micro-frontends, **Web Components (Shadow DOM/Custom Elements)**, Component-Driven Development (Atomic Design), and State Management (Redux/NgRx).
+
+<br/>
 
 ---
 
@@ -101,6 +113,8 @@ I am deeply passionate about **Technical Leadership** and fostering high-perform
 ![Tempo](https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
+<br/>
+
 ---
 
 ### ⚡ Reliability, Performance & Chaos Engineering
@@ -124,6 +138,8 @@ I am deeply passionate about **Technical Leadership** and fostering high-perform
 * **Performance:** **Gatling** and **k6** for high-concurrency load scenarios test.
 * **Deep Profiling:** JVM analysis using **Java Flight Recorder (JFR)** and **VisualVM** for memory leak detection and thread contention analysis.
 * **Chaos Engineering:** Injecting controlled failures with **Toxiproxy** (network latency/partition) and **Chaos Mesh** to validate system self-healing **AWS Fault Injection Service**.
+
+<br/>
 
 ---
 

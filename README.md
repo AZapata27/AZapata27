@@ -35,8 +35,8 @@ I build **with** AI and I build **AI**: agents, MCP servers and skills that plug
 
 | Area | Tools |
 |---|---|
-| **Backend** | <img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,nestjs,go,python,cs" height="40" alt="Java, Kotlin, Spring, Node.js, NestJS, Go, Python, C#"> &nbsp; Quarkus · Apache Camel |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,nestjs,go,python,cs" height="40" alt="Java, Kotlin, Spring, Node.js, NestJS, Go, Python, C#"> <img src="assets/icons/quarkus.svg" height="40" alt="Quarkus"> <img src="assets/icons/camel.svg" height="40" alt="Apache Camel"> |
 | **Cloud** | <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker" height="40" alt="AWS, GCP, Azure, Kubernetes, Docker"> |
-| **Data & streaming** | <img src="https://skillicons.dev/icons?i=kafka,postgres,redis" height="40" alt="Kafka, PostgreSQL, Redis"> &nbsp; Oracle · Neo4j · Spark |
+| **Data & streaming** | <img src="https://skillicons.dev/icons?i=kafka,postgres,redis" height="40" alt="Kafka, PostgreSQL, Redis"> <img src="assets/icons/oracle.svg" height="40" alt="Oracle"> <img src="assets/icons/neo4j.svg" height="40" alt="Neo4j"> <img src="assets/icons/spark.svg" height="40" alt="Apache Spark"> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,angular,astro,ts,nextjs" height="40" alt="React, Angular, Astro, TypeScript, Next.js"> |
 | **Observability** | <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="40" alt="Grafana, Prometheus"> &nbsp; OpenTelemetry · Loki · Tempo |

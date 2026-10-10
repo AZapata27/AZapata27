@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/AZapata27/AZapata27/main/assets/hero-mobile.svg">
-  <img src="assets/hero.svg" width="100%" alt="Andrés Zapata, software architect, 10+ years: fintech, banking, logistics and transportation, integrations. Drawn as an Enterprise Integration Patterns route: your problem enters an inbound channel, a content-based router sends it to architecture (AWS, Azure, GCP, DDD, events), integration (EIP, Camel, Quarkus, Kafka) or AI-native developer (harness, MCP, skills, agents), an aggregator joins the branches and the result goes to production. Leadership and AI trainings run as the control bus.">
+  <img src="assets/hero.svg" width="100%" alt="Andrés Zapata, software architect, 10+ years: fintech, banking, logistics and transportation, integrations. Drawn as an Enterprise Integration Patterns route: your problem enters an inbound channel, a content-based router sends it to architecture (AWS, Azure, GCP, DDD, events), integration (EIP, Camel, Quarkus, Kafka) or AI-native developer (harness, MCP, skills, agents), an aggregator joins the branches and the result goes to production. Leadership and AI trainings run as the control bus. Let's talk: afzar27@gmail.com. Links: GitHub, LinkedIn.">
 </picture>
 
 <picture>
@@ -15,4 +15,4 @@
 
 &nbsp;
 
-<a href="https://www.andres-zapata.dev/"><img src="assets/link-site.svg" height="42" alt="andres-zapata.dev"></a> <a href="https://www.linkedin.com/in/andres-zapata-aristizabal/"><img src="assets/link-linkedin.svg" height="42" alt="LinkedIn"></a>
+<a href="mailto:afzar27@gmail.com"><img src="assets/link-mail.svg" height="42" alt="Let's talk: afzar27@gmail.com"></a> <a href="https://www.andres-zapata.dev/"><img src="assets/link-site.svg" height="42" alt="andres-zapata.dev"></a> <a href="https://www.linkedin.com/in/andres-zapata-aristizabal/"><img src="assets/link-linkedin.svg" height="42" alt="LinkedIn"></a>

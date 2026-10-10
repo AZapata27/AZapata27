@@ -1,10 +1,10 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/AZapata27/AZapata27/main/assets/hero-mobile.svg">
   <img src="assets/hero.svg" width="100%" alt="Andrés Zapata, software architect. Fintech and insurtech, ten years and counting. Three voices of one engineer. The architect: make systems talk. The builder: AI in every step. The leader: I'll show you once, then it's yours.">
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/script-mobile.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/AZapata27/AZapata27/main/assets/script-mobile.svg">
   <img src="assets/script.svg" width="100%" alt="A working script in three voices. The architect: my trade is making systems talk to each other. Enterprise Integration Patterns with Apache Camel on Quarkus, Kafka with Debezium and Streams, cloud-native designs on AWS, Azure and GCP. Ten years of fintech and insurtech; DDD, event-driven, observable from day one, load- and chaos-tested before shipping. The builder: AI is in every step of how I work, from spec and design to code, review and release. Lately I build the AI side too: agent harnesses, MCP servers, skills, agents, and the governance that lets a company trust them. Spring AI, LangChain4j, Claude Code and Junie on the desk. The leader: I have led more than 200 people over the last five years and I coach developers into senior and architect roles. These days I also run corporate AI trainings, so a whole team can work this way, not just me.">
 </picture>
 

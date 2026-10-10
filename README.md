@@ -32,7 +32,7 @@ I build **with** AI and I build **AI**: agents, MCP servers and skills that plug
 
 ## 🛠️ Stack
 
-| | |
+| Area | Tools |
 |---|---|
 | **Backend** | <img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,nestjs,go,python,cs" height="40" alt="Java, Kotlin, Spring, Node.js, NestJS, Go, Python, C#"> |
 | **Cloud** | <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker" height="40" alt="AWS, GCP, Azure, Kubernetes, Docker"> |

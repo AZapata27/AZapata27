@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/AZapata27/AZapata27/main/assets/hero-mobile.svg">
-  <img src="assets/hero.svg" width="100%" alt="Andrés Zapata, software architect, 10+ years: fintech, banking, logistics and transportation, integrations. Drawn as an Enterprise Integration Patterns route: your problem enters an inbound channel, a content-based router sends it to architecture (AWS, Azure, GCP, DDD, events), integration (EIP, Camel, Quarkus, Kafka) or AI-native development (harness, MCP, skills, agents), an aggregator joins the branches and the result goes to production. Leadership and AI trainings run as the control bus. Let's talk: afzar27@gmail.com. Links: GitHub, LinkedIn.">
+  <img src="assets/hero.svg" width="100%" alt="Andrés Zapata, software architect, 10+ years: fintech, banking, logistics and transportation, integrations. Drawn as an Enterprise Integration Patterns route: your problem enters an inbound channel, a content-based router sends it to architecture (AWS, Azure, GCP, DDD, events), integration (EIP, Camel, Quarkus, Kafka) or AI-native development (harness, MCP, skills, agents), an aggregator joins the branches and the result goes to production. Leadership and AI trainings run as the control bus. Let's talk: afzar27@gmail.com. Links: GitHub, LinkedIn, portfolio.">
 </picture>
 
 <picture>

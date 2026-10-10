@@ -190,11 +190,12 @@ def title_block(bank, x, y, w, rows, label_w, size, write_me):
             vx += BOLD.width(write_me, size * 1.2, 0.6) + size * 0.7
             out.append(t(bank, MONO, v, vx, base, size * 0.95, INK))
         elif style == "links":
+            ls = size * 0.92
             for item in v.split("|"):
-                iw = MONO.width(item, size)
-                out.append(t(bank, MONO, item, vx, base, size, BUS))
-                out.append(f'<rect x="{vx}" y="{base + size * 0.22:.1f}" width="{iw:.1f}" height="1.3" fill="{BUS}"/>')
-                vx += iw + size * 1.6
+                iw = MONO.width(item, ls)
+                out.append(t(bank, MONO, item, vx, base, ls, BUS))
+                out.append(f'<rect x="{vx:.1f}" y="{base + ls * 0.22:.1f}" width="{iw:.1f}" height="1.3" fill="{BUS}"/>')
+                vx += iw + ls * 1.2
         else:
             out.append(t(bank, MONO_B if i == 0 else MONO, v, vx, base, size, INK))
     out.append(f'<path d="M{x + label_w} {y}V{y + rh * len(rows)}" stroke="{INK}" stroke-width="1.2"/>')

@@ -24,7 +24,7 @@ TEXT = {
         "title_rows": [("DRAWING", "andres-zapata.route", None), ("ROLE", "Software architect", None),
                        ("EXPERIENCE", "10+ years", None), ("DOMAINS", "fintech · banking", None),
                        ("", "logistics · transportation", None), ("SCOPE", "integrations", None),
-                       ("LET'S TALK", EMAIL, "talk"), ("LINKS", "GitHub|LinkedIn", "links")],
+                       ("LET'S TALK", EMAIL, "talk"), ("LINKS", "GitHub|LinkedIn|Portfolio", "links")],
         "write_me": "WRITE ME",
         "hero_title": "Andrés Zapata, integration route",
         "hero_desc": ("Andrés Zapata, software architect, 10+ years: fintech, banking, logistics and transportation, "
@@ -32,7 +32,7 @@ TEXT = {
                       "channel, a content-based router sends it to architecture (AWS, Azure, GCP, DDD, events), "
                       "integration (EIP, Camel, Quarkus, Kafka) or AI-native development (harness, MCP, skills, agents), "
                       "an aggregator joins the branches and the result goes to production. Leadership and AI trainings "
-                      f"run as the control bus. Let's talk: {EMAIL}. Links: GitHub, LinkedIn."),
+                      f"run as the control bus. Let's talk: {EMAIL}. Links: GitHub, LinkedIn, portfolio."),
         "notes_title": "NOTES",
         "notes": [
             (1, "ARCHITECTURE",
@@ -90,7 +90,7 @@ TEXT = {
         "title_rows": [("PLANO", "andres-zapata.route", None), ("ROL", "Arquitecto de software", None),
                        ("EXPERIENCIA", "10+ años", None), ("DOMINIOS", "fintech · banca", None),
                        ("", "logística · transporte", None), ("ALCANCE", "integraciones", None),
-                       ("HABLEMOS", EMAIL, "talk"), ("ENLACES", "GitHub|LinkedIn", "links")],
+                       ("HABLEMOS", EMAIL, "talk"), ("ENLACES", "GitHub|LinkedIn|Portafolio", "links")],
         "write_me": "ESCRÍBEME",
         "hero_title": "Andrés Zapata, ruta de integración",
         "hero_desc": ("Andrés Zapata, arquitecto de software, 10+ años: fintech, banca, logística y transporte, "
@@ -98,7 +98,7 @@ TEXT = {
                       "un canal, un router por contenido lo envía a arquitectura (AWS, Azure, GCP, DDD, eventos), "
                       "integración (EIP, Camel, Quarkus, Kafka) o desarrollo AI-native (harness, MCP, skills, agentes), "
                       "un agregador une las ramas y el resultado sale a producción. El liderazgo y la formación en IA "
-                      f"funcionan como control bus. Hablemos: {EMAIL}. Enlaces: GitHub, LinkedIn."),
+                      f"funcionan como control bus. Hablemos: {EMAIL}. Enlaces: GitHub, LinkedIn, portafolio."),
         "notes_title": "NOTAS",
         "notes": [
             (1, "ARQUITECTURA",

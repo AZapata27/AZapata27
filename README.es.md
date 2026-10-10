@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/AZapata27/AZapata27/main/assets/hero-mobile.es.svg">
-  <img src="assets/hero.es.svg" width="100%" alt="Andrés Zapata, arquitecto de software, 10+ años: fintech, banca, logística y transporte, integraciones. Dibujado como una ruta de Enterprise Integration Patterns: tu problema entra por un canal, un router por contenido lo envía a arquitectura (AWS, Azure, GCP, DDD, eventos), integración (EIP, Camel, Quarkus, Kafka) o desarrollo AI-native (harness, MCP, skills, agentes), un agregador une las ramas y el resultado sale a producción. El liderazgo y la formación en IA funcionan como control bus. Hablemos: afzar27@gmail.com. Enlaces: GitHub, LinkedIn.">
+  <img src="assets/hero.es.svg" width="100%" alt="Andrés Zapata, arquitecto de software, 10+ años: fintech, banca, logística y transporte, integraciones. Dibujado como una ruta de Enterprise Integration Patterns: tu problema entra por un canal, un router por contenido lo envía a arquitectura (AWS, Azure, GCP, DDD, eventos), integración (EIP, Camel, Quarkus, Kafka) o desarrollo AI-native (harness, MCP, skills, agentes), un agregador une las ramas y el resultado sale a producción. El liderazgo y la formación en IA funcionan como control bus. Hablemos: afzar27@gmail.com. Enlaces: GitHub, LinkedIn, portafolio.">
 </picture>
 
 <picture>

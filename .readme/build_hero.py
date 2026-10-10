@@ -5,12 +5,13 @@ or AI-native development, an aggregator joins the branches and the result leaves
 and training run as the control bus. Drafting-sheet conventions: border with zone marks, callout bubbles keyed
 to the numbered notes, a code detail and a title block that also carries contact and links.
 
-Usage:  python .readme/fetch_fonts.py && python .readme/build_hero.py      (writes assets/hero*.svg, link-*.svg)
+Usage:  python .readme/fetch_fonts.py && python .readme/build_hero.py      (assets/hero*.svg, link-*.svg; en and es)
         STATIC=1 OUT=/tmp/out python .readme/build_hero.py                 (no motion, for review captures)
 """
 import os
 
 from typeset import Face, GlyphBank, wrap
+from content import TEXT, suffix
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 FONTS = os.path.join(HERE, "fonts")
@@ -29,10 +30,6 @@ SEMI = Face(os.path.join(FONTS, "BarlowCondensed-SemiBold.ttf"))
 MED = Face(os.path.join(FONTS, "BarlowCondensed-Medium.ttf"))
 MONO = Face(os.path.join(FONTS, "JetBrainsMono[wght].ttf"), {"wght": 500})
 MONO_B = Face(os.path.join(FONTS, "JetBrainsMono[wght].ttf"), {"wght": 700})
-
-EMAIL = "afzar27@gmail.com"
-LINKS = [("andres-zapata.dev", "https://www.andres-zapata.dev/"),
-         ("LinkedIn", "https://www.linkedin.com/in/andres-zapata-aristizabal/")]
 
 DEFS = """
   <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
@@ -151,12 +148,6 @@ def tokens(paths, dur=6.0):
     return "".join(out)
 
 
-BRANCHES = [
-    ("ARCHITECTURE", "translator", "AWS · Azure · GCP · DDD · events", 1),
-    ("INTEGRATION", "route", "EIP · Camel · Quarkus · Kafka", 2),
-    ("AI-NATIVE DEVELOPER", "agent", "harness · MCP · skills · agents", 3),
-]
-
 CODE = [
     [("from", INK), ("(", INK), ('"inbound:your-problem"', AMBER_TEXT), (")", INK)],
     [("    .choice()", INK)],
@@ -182,14 +173,7 @@ def code_block(bank, x, y, size, lh, bubbles_x):
     return "".join(out)
 
 
-# The title block ends with two working rows: how to reach Andrés, and where else to find him.
-TITLE_ROWS = [("DRAWING", "andres-zapata.route", None), ("ROLE", "Software architect", None),
-              ("EXPERIENCE", "10+ years", None), ("DOMAINS", "fintech · banking", None),
-              ("", "logistics · transportation", None), ("SCOPE", "integrations", None),
-              ("LET'S TALK", EMAIL, "talk"), ("LINKS", "GitHub|LinkedIn", "links")]
-
-
-def title_block(bank, x, y, w, rows, label_w, size):
+def title_block(bank, x, y, w, rows, label_w, size, write_me):
     rh = size * 2.15
     out = [f'<rect x="{x}" y="{y}" width="{w}" height="{rh * len(rows)}" fill="{SHEET}" stroke="{INK}" stroke-width="2"/>']
     for i, (k, v, style) in enumerate(rows):
@@ -202,8 +186,8 @@ def title_block(bank, x, y, w, rows, label_w, size):
         out.append(t(bank, SEMI, k, x + 10, base, size * 0.82, INK if style == "talk" else SOFT, tracking=1.2))
         vx = x + label_w + 10
         if style == "talk":
-            out.append(t(bank, BOLD, "WRITE ME", vx, base + size * 0.08, size * 1.2, INK, tracking=0.6))
-            vx += BOLD.width("WRITE ME", size * 1.2, 0.6) + size * 0.7
+            out.append(t(bank, BOLD, write_me, vx, base + size * 0.08, size * 1.2, INK, tracking=0.6))
+            vx += BOLD.width(write_me, size * 1.2, 0.6) + size * 0.7
             out.append(t(bank, MONO, v, vx, base, size * 0.95, INK))
         elif style == "links":
             for item in v.split("|"):
@@ -217,21 +201,14 @@ def title_block(bank, x, y, w, rows, label_w, size):
     return "".join(out)
 
 
-DESC = ("Andrés Zapata, software architect, 10+ years: fintech, banking, logistics and transportation, integrations. "
-        "Drawn as an Enterprise Integration Patterns route: your problem enters an inbound channel, a content-based "
-        "router sends it to architecture (AWS, Azure, GCP, DDD, events), integration (EIP, Camel, Quarkus, Kafka) or "
-        "AI-native development (harness, MCP, skills, agents), an aggregator joins the branches and the result goes "
-        f"to production. Leadership and AI trainings run as the control bus. Let's talk: {EMAIL}. Links: GitHub, LinkedIn.")
-
-
 # ---------------------------------------------------------------- hero, desktop
-def hero():
+def hero(lang):
+    T = TEXT[lang]
     W, H = 1200, 900
     bank = GlyphBank("e")
     out = []
     out.append(t(bank, BOLD, "ANDRÉS ZAPATA", 60, 108, 62))
-    out.append(t(bank, MED, "Software architect, 10+ years. Fintech, banking, logistics and transportation, integrations.",
-                 62, 142, 21, SOFT))
+    out.append(t(bank, MED, T["subtitle"], 62, 142, 21, SOFT))
 
     cy = 400
     ys = [256, 400, 544]
@@ -239,7 +216,7 @@ def hero():
     # Control bus: leadership and trainings steer every stage.
     out.append(f'<path d="M240 186H1140" stroke="{BUS}" stroke-width="2" stroke-dasharray="9 6"/>')
     out.append(t(bank, BOLD, "CONTROL BUS", 240, 176, 17, BUS, tracking=1))
-    out.append(t(bank, MONO, "teams · 200+ people led · AI trainings", 352, 176, 13, BUS))
+    out.append(t(bank, MONO, T["bus"], 352, 176, 13, BUS))
     out.append(bubble(bank, 4, 1112, 186, color=BUS))
     for x, y2 in [(275, cy - 35), (575, ys[0] - 32), (835, cy - 35)]:
         out.append(f'<path d="M{x} 186V{y2}" stroke="{BUS}" stroke-width="1.4" stroke-dasharray="4 5"/>')
@@ -261,16 +238,16 @@ def hero():
     out.append(router(275, cy))
     out.append(aggregator(835, cy))
     out.append(t(bank, MONO, "inbound", 60, cy - 26, 13, SOFT))
-    out.append(t(bank, SEMI, "your problem", 60, cy + 42, 17, INK))
-    out.append(t(bank, SEMI, "content-based router", 275, cy + 58, 15, SOFT, "middle"))
-    out.append(t(bank, SEMI, "aggregator", 835, cy + 58, 15, SOFT, "middle"))
+    out.append(t(bank, SEMI, T["problem"], 60, cy + 42, 17, INK))
+    out.append(t(bank, SEMI, T["router"], 275, cy + 58, 15, SOFT, "middle"))
+    out.append(t(bank, SEMI, T["aggregator"], 835, cy + 58, 15, SOFT, "middle"))
     out.append(t(bank, MONO, "outbound", 900, cy - 26, 13, SOFT))
-    out.append(t(bank, SEMI, "production", 900, cy + 42, 17, INK))
+    out.append(t(bank, SEMI, T["production"], 900, cy + 42, 17, INK))
     out.append(f'<rect x="1066" y="{cy - 30}" width="74" height="60" fill="{INK}"/>')
     out.append(f'<path d="M1050 {cy}H1066" stroke="{INK}" stroke-width="2"/>')
     out.append(t(bank, BOLD, "PROD", 1103, cy + 7, 20, SHEET, "middle", tracking=1.5))
 
-    for (title, kind, sub, n), y in zip(BRANCHES, ys):
+    for (title, kind, sub, n), y in zip(T["branches"], ys):
         out.append(f'<rect x="{bx0}" y="{y - 34}" width="{bx1 - bx0}" height="68" fill="{SHEET}" stroke="{INK}" stroke-width="2.4"/>')
         out.append(glyph(kind, bx0 + 12, y - 20))
         out.append(t(bank, BOLD, title, bx0 + 66, y - 3, 23, INK, tracking=0.5))
@@ -283,24 +260,24 @@ def hero():
     out.append(t(bank, MONO, "Route.java", dx + 82, dy - 28, 13, SOFT))
     out.append(code_block(bank, dx, dy + 6, 13.5, 19, dx + 690))
 
-    out.append(title_block(bank, 800, 606, 340, TITLE_ROWS, 104, 14))
-    save("hero.svg", sheet(W, H, "".join(out), bank, "Andrés Zapata, integration route", DESC))
+    out.append(title_block(bank, 800, 606, 340, T["title_rows"], 104, 14, T["write_me"]))
+    save(f"hero{suffix(lang)}.svg", sheet(W, H, "".join(out), bank, T["hero_title"], T["hero_desc"]))
 
 
 # ---------------------------------------------------------------- hero, phone
-def hero_mobile():
+def hero_mobile(lang):
+    T = TEXT[lang]
     W, H = 800, 1860
     bank = GlyphBank("em")
     out = []
     out.append(t(bank, BOLD, "ANDRÉS ZAPATA", 56, 116, 84))
-    for i, line in enumerate(["Software architect, 10+ years. Fintech, banking,",
-                              "logistics and transportation, integrations."]):
+    for i, line in enumerate(T["subtitle_m"]):
         out.append(t(bank, MED, line, 58, 162 + i * 34, 28, SOFT))
 
     cx = 400
     xs = [160, 400, 640]
     out.append(t(bank, MONO, "inbound", 444, 262, 18, SOFT))
-    out.append(t(bank, SEMI, "your problem", 444, 290, 24, INK))
+    out.append(t(bank, SEMI, T["problem"], 444, 290, 24, INK))
     out.append(f'<path d="M{cx} 380V400" stroke="{INK}" stroke-width="2.4"/>')
     wires = []
     for x in xs:
@@ -310,23 +287,23 @@ def hero_mobile():
     out.append(f'<path d="M{cx} 970V1000" stroke="{INK}" stroke-width="2.4"/>')
     out.append(f'<path d="M64 548H736" stroke="{BUS}" stroke-width="2.4" stroke-dasharray="10 7"/>')
     out.append(t(bank, BOLD, "CONTROL BUS", 64, 538, 22, BUS, tracking=1))
-    out.append(t(bank, MONO, "teams · 200+ led · AI trainings", 222, 538, 16, BUS))
+    out.append(t(bank, MONO, T["bus_m"], 222, 538, 16, BUS))
     out.append(bubble(bank, 4, 736, 548, r=16, color=BUS))
 
     out.append(pipe(cx, 250, 130, h=36, vertical=True))
     out.append(pipe(cx, 1000, 130, h=36, vertical=True))
     out.append(tokens([f'M{cx} 262V500H{x}V870H{cx}V1120' for x in xs]))
     out.append(router(cx, 440, s=72, vertical=True))
-    out.append(t(bank, SEMI, "content-based router", 450, 446, 20, SOFT))
+    out.append(t(bank, SEMI, T["router"], 450, 446, 20, SOFT))
     out.append(aggregator(cx, 935, s=72, vertical=True))
-    out.append(t(bank, SEMI, "aggregator", 450, 942, 20, SOFT))
+    out.append(t(bank, SEMI, T["aggregator"], 450, 942, 20, SOFT))
     out.append(t(bank, MONO, "outbound", 444, 1046, 18, SOFT))
-    out.append(t(bank, SEMI, "production", 444, 1074, 24, INK))
+    out.append(t(bank, SEMI, T["production"], 444, 1074, 24, INK))
     out.append(f'<rect x="{cx - 50}" y="1140" width="100" height="58" fill="{INK}"/>')
     out.append(f'<path d="M{cx} 1130V1140" stroke="{INK}" stroke-width="2.4"/>')
     out.append(t(bank, BOLD, "PROD", cx, 1178, 26, SHEET, "middle", tracking=1.5))
 
-    for (title, kind, sub, n), x in zip(BRANCHES, xs):
+    for (title, kind, sub, n), x in zip(T["branches"], xs):
         out.append(f'<rect x="{x - 112}" y="600" width="224" height="230" fill="{SHEET}" stroke="{INK}" stroke-width="2.4"/>')
         out.append(glyph(kind, x - 26, 622, s=52))
         words = title.split(" ", 1) if len(title) > 12 else [title]
@@ -359,8 +336,9 @@ def hero_mobile():
         if i in keyed:
             out.append(bubble(bank, keyed[i], 728, y - 7, r=13))
 
-    out.append(title_block(bank, 56, H - 28 - 26 - len(TITLE_ROWS) * 34.4, 688, TITLE_ROWS, 170, 16))
-    save("hero-mobile.svg", sheet(W, H, "".join(out), bank, "Andrés Zapata, integration route", DESC))
+    rows = T["title_rows"]
+    out.append(title_block(bank, 56, H - 28 - 26 - len(rows) * 34.4, 688, rows, 170, 16, T["write_me"]))
+    save(f"hero-mobile{suffix(lang)}.svg", sheet(W, H, "".join(out), bank, T["hero_title"], T["hero_desc"]))
 
 
 # ---------------------------------------------------------------- clickable buttons under the drawing
@@ -382,8 +360,10 @@ def link(name, label, primary):
 
 
 if __name__ == "__main__":
-    hero()
-    hero_mobile()
-    link("link-mail.svg", "let's talk", True)
-    link("link-site.svg", "andres-zapata.dev", False)
-    link("link-linkedin.svg", "linkedin", False)
+    for lang in TEXT:
+        hero(lang)
+        hero_mobile(lang)
+        for i, (name, label, _, _) in enumerate(TEXT[lang]["buttons"]):
+            out = f"{name}{suffix(lang)}.svg"
+            if lang == "en" or label != TEXT["en"]["buttons"][i][1]:
+                link(out, label, i == 0)

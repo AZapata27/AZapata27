@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">AI-first engineering</title>
+  <desc id="desc">AI agents with Spring AI and LangChain4j; MCP servers that connect LLMs to real systems; reusable Claude Code skills; corporate training on AI coding agents and spec-driven development. Workflow: spec, agent, MCP tools, tests and review, production.</desc>
+  <style>
+    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+    .mono { font-family: Consolas, 'SF Mono', Menlo, monospace; }
+    .card { fill: #0D1117; stroke: #30363D; }
+    .title { font-size: 28px; font-weight: 700; fill: #E6EDF3; }
+    .body { font-size: 21px; fill: #9DA7B3; }
+    .tag { font-size: 14px; letter-spacing: 2px; }
+    .flow { stroke-dasharray: 6 8; animation: dash 1.2s linear infinite; }
+    .pulse { animation: travel 4s ease-in-out infinite; }
+    @keyframes dash { to { stroke-dashoffset: -28; } }
+    @keyframes travel {
+      0% { transform: translateX(0); opacity: 0; }
+      8% { opacity: 1; }
+      92% { opacity: 1; }
+      100% { transform: translateX(780px); opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) { .flow, .pulse { animation: none; } .pulse { opacity: 0; } }
+  </style>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFB07A"/><stop offset="1" stop-color="#F0883E"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D2A8FF"/><stop offset="1" stop-color="#8957E5"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#79C0FF"/><stop offset="1" stop-color="#1F6FEB"/></linearGradient>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7EE787"/><stop offset="1" stop-color="#238636"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F0883E"/><stop offset="1" stop-color="#A371F7"/></linearGradient>
+  </defs>
+
+  <!-- Card 1: Agents -->
+  <g class="sans">
+    <rect class="card" x="0.5" y="0.5" width="579" height="229" rx="20"/>
+    <rect x="32" y="32" width="56" height="56" rx="14" fill="url(#g1)"/>
+    <text x="60" y="71" text-anchor="middle" font-size="28">🤖</text>
+    <text class="title" x="108" y="70">AI Agents</text>
+    <text class="mono tag" x="108" y="94" fill="#F0883E">SPRING AI · LANGCHAIN4J</text>
+    <text class="body" x="32" y="140">Agentic workflows on the JVM: tool calling,</text>
+    <text class="body" x="32" y="172">RAG and multi-step reasoning wired into</text>
+    <text class="body" x="32" y="204">real business processes.</text>
+  </g>
+
+  <!-- Card 2: MCP -->
+  <g class="sans">
+    <rect class="card" x="620.5" y="0.5" width="579" height="229" rx="20"/>
+    <rect x="652" y="32" width="56" height="56" rx="14" fill="url(#g2)"/>
+    <text x="680" y="71" text-anchor="middle" font-size="28">🔌</text>
+    <text class="title" x="728" y="70">MCP Servers</text>
+    <text class="mono tag" x="728" y="94" fill="#D2A8FF">MODEL CONTEXT PROTOCOL</text>
+    <text class="body" x="652" y="140">Servers that give LLMs safe, structured</text>
+    <text class="body" x="652" y="172">access to real systems: APIs, data,</text>
+    <text class="body" x="652" y="204">docs and observability.</text>
+  </g>
+
+  <!-- Card 3: Skills -->
+  <g class="sans">
+    <rect class="card" x="0.5" y="260.5" width="579" height="229" rx="20"/>
+    <rect x="32" y="292" width="56" height="56" rx="14" fill="url(#g3)"/>
+    <text x="60" y="331" text-anchor="middle" font-size="28">🧩</text>
+    <text class="title" x="108" y="330">Agent Skills</text>
+    <text class="mono tag" x="108" y="354" fill="#79C0FF">CLAUDE CODE · JUNIE</text>
+    <text class="body" x="32" y="400">Reusable skills that turn team standards</text>
+    <text class="body" x="32" y="432">into repeatable flows: reviews, docs,</text>
+    <text class="body" x="32" y="464">service catalogs and delivery.</text>
+  </g>
+
+  <!-- Card 4: Training -->
+  <g class="sans">
+    <rect class="card" x="620.5" y="260.5" width="579" height="229" rx="20"/>
+    <rect x="652" y="292" width="56" height="56" rx="14" fill="url(#g4)"/>
+    <text x="680" y="331" text-anchor="middle" font-size="28">🎓</text>
+    <text class="title" x="728" y="330">Corporate Training</text>
+    <text class="mono tag" x="728" y="354" fill="#7EE787">TEAMS · WORKSHOPS</text>
+    <text class="body" x="652" y="400">I train engineering teams to adopt AI</text>
+    <text class="body" x="652" y="432">coding agents, prompt &amp; context</text>
+    <text class="body" x="652" y="464">engineering and spec-driven development.</text>
+  </g>
+
+  <!-- Flow -->
+  <text class="mono tag" x="600" y="540" text-anchor="middle" fill="#8B949E">HOW I SHIP WITH AI</text>
+  <line class="flow" x1="120" y1="596" x2="1080" y2="596" stroke="url(#line)" stroke-width="2"/>
+  <circle class="pulse" cx="210" cy="596" r="6" fill="#FFFFFF"/>
+  <g class="mono" font-size="18" text-anchor="middle">
+    <rect x="30" y="568" width="180" height="56" rx="28" fill="#161B22" stroke="#F0883E"/>
+    <text x="120" y="602" fill="#E6EDF3">spec.md</text>
+    <rect x="270" y="568" width="180" height="56" rx="28" fill="#161B22" stroke="#D88A6A"/>
+    <text x="360" y="602" fill="#E6EDF3">agent</text>
+    <rect x="510" y="568" width="180" height="56" rx="28" fill="#161B22" stroke="#C38494"/>
+    <text x="600" y="602" fill="#E6EDF3">MCP tools</text>
+    <rect x="750" y="568" width="180" height="56" rx="28" fill="#161B22" stroke="#B37BC6"/>
+    <text x="840" y="602" fill="#E6EDF3">tests + review</text>
+    <rect x="990" y="568" width="180" height="56" rx="28" fill="#161B22" stroke="#A371F7"/>
+    <text x="1080" y="602" fill="#E6EDF3">production</text>
+  </g>
+</svg>

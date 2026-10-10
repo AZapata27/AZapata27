@@ -33,7 +33,7 @@ TEXT = {
                       "integration (EIP, Camel, Quarkus, Kafka) or AI-native development (harness, MCP, skills, agents), "
                       "an aggregator joins the branches and the result goes to production. Leadership and AI trainings "
                       f"run as the control bus. Let's talk: {EMAIL}. Links: GitHub, LinkedIn, portfolio."),
-        "notes_title": "NOTES",
+        "notes_title": "EXPERIENCE",
         "notes": [
             (1, "ARCHITECTURE",
              "Cloud-native designs on AWS, Azure and GCP. DDD, event-driven, observable from day one, load- and "
@@ -49,7 +49,7 @@ TEXT = {
              "More than 200 people led over the last five years. I coach developers into senior and architect roles "
              "and run corporate AI trainings, so a whole team can work this way."),
         ],
-        "parts_title": "PARTS LIST",
+        "parts_title": "TECH STACK",
         "parts_cols": ("ITEM", "GROUP", "PARTS"),
         "stack": [
             ("AI", ["claude", "openai", "langchain", "mcp", "huggingface"],
@@ -72,8 +72,8 @@ TEXT = {
         "buttons": [("link-mail", "let's talk", f"mailto:{EMAIL}", f"Let's talk: {EMAIL}"),
                     ("link-site", "andres-zapata.dev", SITE, "andres-zapata.dev"),
                     ("link-linkedin", "linkedin", LINKEDIN, "LinkedIn")],
-        "notes_desc_prefix": "Notes.",
-        "parts_desc_prefix": "Parts list.",
+        "notes_desc_prefix": "Experience.",
+        "parts_desc_prefix": "Tech stack.",
     },
     "es": {
         "subtitle": "Arquitecto de software, 10+ años. Fintech, banca, logística y transporte, integraciones.",
@@ -99,7 +99,7 @@ TEXT = {
                       "integración (EIP, Camel, Quarkus, Kafka) o desarrollo AI-native (harness, MCP, skills, agentes), "
                       "un agregador une las ramas y el resultado sale a producción. El liderazgo y la formación en IA "
                       f"funcionan como control bus. Hablemos: {EMAIL}. Enlaces: GitHub, LinkedIn, portafolio."),
-        "notes_title": "NOTAS",
+        "notes_title": "EXPERIENCIA",
         "notes": [
             (1, "ARQUITECTURA",
              "Diseños cloud-native en AWS, Azure y GCP. DDD, orientado a eventos, observable desde el primer día, con "
@@ -116,7 +116,7 @@ TEXT = {
              "Más de 200 personas lideradas en los últimos cinco años. Acompaño a desarrolladores hacia roles senior y "
              "de arquitectura, y doy formación corporativa en IA para que equipos completos trabajen así."),
         ],
-        "parts_title": "LISTA DE PARTES",
+        "parts_title": "STACK TECNOLÓGICO",
         "parts_cols": ("ÍTEM", "GRUPO", "PARTES"),
         "stack": [
             ("IA", ["claude", "openai", "langchain", "mcp", "huggingface"],
@@ -139,8 +139,8 @@ TEXT = {
         "buttons": [("link-mail", "hablemos", f"mailto:{EMAIL}", f"Hablemos: {EMAIL}"),
                     ("link-site", "andres-zapata.dev", SITE, "andres-zapata.dev"),
                     ("link-linkedin", "linkedin", LINKEDIN, "LinkedIn")],
-        "notes_desc_prefix": "Notas.",
-        "parts_desc_prefix": "Lista de partes.",
+        "notes_desc_prefix": "Experiencia.",
+        "parts_desc_prefix": "Stack tecnológico.",
     },
 }
 

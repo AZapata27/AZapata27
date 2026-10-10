@@ -10,7 +10,7 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/AZapata27/AZapata27/main/assets/parts-mobile.svg">
-  <img src="assets/parts.svg" width="100%" alt="Parts list. Backend: Java, Kotlin, Spring, Quarkus, Apache Camel, Node.js, NestJS, Go, Python, C#. Data and streaming: Kafka with Connect, Debezium and Streams, PostgreSQL, Oracle, Redis, Neo4j, Spark. Cloud: AWS, GCP, Azure, Kubernetes, Docker. Frontend: React, Angular, Astro, TypeScript, Next.js. Observability: OpenTelemetry, Prometheus, Grafana, Loki, Tempo.">
+  <img src="assets/parts.svg" width="100%" alt="Parts list. Languages: Java, Kotlin, TypeScript, JavaScript, Go. Backend: Spring Boot, WebFlux, Quarkus, Apache Camel, Vert.x, Node.js, NestJS. Frontend: Angular, React, Vue, Next.js. Data And Events: Kafka (Confluent), Debezium, GCP Pub/Sub, PostgreSQL, Oracle, MongoDB, Redis, DynamoDB. Cloud And Devops: AWS, GCP, Azure, OpenShift, Kubernetes, Docker, Terraform, GitHub Actions, Keycloak, Kong. Observability: OpenTelemetry, Prometheus, Grafana, Loki, Tempo. Quality: JUnit, Testcontainers, Cypress, k6, Gatling, chaos engineering, SonarQube.">
 </picture>
 
 &nbsp;

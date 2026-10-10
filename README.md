@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Andrés Zapata — Software Architect & AI Engineer. 10+ years building mission-critical platforms for Fintech and Insurtech, 200+ people led, AWS, Azure and GCP.">
+  <img src="assets/hero.svg" width="100%" alt="Andrés Zapata — Software Architect & AI Engineer. 10+ years building mission-critical platforms for Fintech and Insurtech, 200+ people led. Stack: JVM, Quarkus, Node.js, Kafka · React, Angular, Astro · Kubernetes, AWS, Azure, GCP.">
 </p>
 
 <p align="center">
@@ -26,6 +26,7 @@ I build **with** AI and I build **AI**: agents, MCP servers and skills that plug
 ## 🧭 Experience at a glance
 
 - 🏗️ **Architecture** — Cloud-native microservices with DDD, Clean Architecture and event-driven design, aligned with the Well-Architected Framework.
+- 🔗 **Integration** — Enterprise Integration Patterns (EIP) with Apache Camel on Quarkus: routing, transformation and connectors between systems.
 - ⚡ **Streaming** — High-throughput pipelines on Kafka: Connect + Debezium for CDC, Kafka Streams and Schema Registry.
 - 🔭 **Reliability** — End-to-end observability, load testing with k6 and Gatling, JVM profiling and chaos engineering.
 - 👥 **Leadership** — 200+ people led over the last 5 years. I coach developers into senior and architect roles.
@@ -34,8 +35,8 @@ I build **with** AI and I build **AI**: agents, MCP servers and skills that plug
 
 | Area | Tools |
 |---|---|
-| **Backend** | <img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,nestjs,go,python,cs" height="40" alt="Java, Kotlin, Spring, Node.js, NestJS, Go, Python, C#"> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,nestjs,go,python,cs" height="40" alt="Java, Kotlin, Spring, Node.js, NestJS, Go, Python, C#"> &nbsp; Quarkus · Apache Camel |
 | **Cloud** | <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker" height="40" alt="AWS, GCP, Azure, Kubernetes, Docker"> |
 | **Data & streaming** | <img src="https://skillicons.dev/icons?i=kafka,postgres,redis" height="40" alt="Kafka, PostgreSQL, Redis"> &nbsp; Oracle · Neo4j · Spark |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,angular,ts,nextjs" height="40" alt="React, Angular, TypeScript, Next.js"> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,angular,astro,ts,nextjs" height="40" alt="React, Angular, Astro, TypeScript, Next.js"> |
 | **Observability** | <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="40" alt="Grafana, Prometheus"> &nbsp; OpenTelemetry · Loki · Tempo |

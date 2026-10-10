@@ -10,10 +10,9 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/AZapata27/AZapata27/main/assets/stack-mobile.svg">
-  <img src="assets/stack.svg" width="100%" alt="The props. Backend: Java, Kotlin, Spring, Quarkus, Apache Camel, Node.js, NestJS, Go, Python, C#. Data and streaming: Kafka with Connect, Debezium and Streams, PostgreSQL, Oracle, Redis, Neo4j, Spark. Cloud: AWS, GCP, Azure, Kubernetes, Docker. Frontend: React, Angular, Astro, TypeScript, Next.js. Observability: OpenTelemetry, Prometheus, Grafana, Loki, Tempo.">
+  <img src="assets/stack.svg" width="100%" alt="The stack. Backend: Java, Kotlin, Spring, Quarkus, Apache Camel, Node.js, NestJS, Go, Python, C#. Data and streaming: Kafka with Connect, Debezium and Streams, PostgreSQL, Oracle, Redis, Neo4j, Spark. Cloud: AWS, GCP, Azure, Kubernetes, Docker. Frontend: React, Angular, Astro, TypeScript, Next.js. Observability: OpenTelemetry, Prometheus, Grafana, Loki, Tempo.">
 </picture>
 
-<br>
+&nbsp;
 
-<a href="https://www.andres-zapata.dev/"><img src="assets/link-site.svg" height="42" alt="andres-zapata.dev"></a>
-<a href="https://www.linkedin.com/in/andres-zapata-aristizabal/"><img src="assets/link-linkedin.svg" height="42" alt="LinkedIn"></a>
+<a href="https://www.andres-zapata.dev/"><img src="assets/link-site.svg" height="42" alt="andres-zapata.dev"></a> <a href="https://www.linkedin.com/in/andres-zapata-aristizabal/"><img src="assets/link-linkedin.svg" height="42" alt="LinkedIn"></a>

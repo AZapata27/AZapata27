@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/AZapata27/AZapata27/main/assets/hero-mobile.svg">
-  <img src="assets/hero.svg" width="100%" alt="Andrés Zapata, software architect, 10+ years. Fintech, banking, logistics and transportation, integrations. Three voices of one engineer. The architect: make systems talk. The builder: AI in every step. The leader: I'll show you once, then it's yours.">
+  <img src="assets/hero.svg" width="100%" alt="Andrés Zapata, software architect, 10+ years. Fintech, banking, logistics and transportation, integrations. Three voices of one engineer. The architect: make systems talk. The builder: AI in every step. The leader: goals, not hours; quality, not luck; better each sprint.">
 </picture>
 
 <picture>

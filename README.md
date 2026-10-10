@@ -3,7 +3,7 @@
 **Senior FullStack Developer & Software Architect** · 10+ years building scalable, mission-critical systems for **Fintech** and **Insurtech**.
 
 [![Website](https://img.shields.io/badge/Website-andres--zapata.dev-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.andres-zapata.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Zapata-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-zapata-aristizabal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Zapata-0A66C2?style=flat-square)](https://www.linkedin.com/in/andres-zapata-aristizabal/)
 
 ## What I do
 

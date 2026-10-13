@@ -1,8 +1,8 @@
 """Builds the profile hero: an Enterprise Integration Patterns route drawing.
 
 The visitor's problem enters an inbound channel, a content-based router sends it to architecture, integration
-or AI-native development, an aggregator joins the branches and the result leaves for production. Leadership
-and training run as the control bus. Drafting-sheet conventions: border with zone marks, callout bubbles keyed
+or AI-native development, an aggregator joins the branches and the result leaves for production. Technical
+leadership and training run alongside as the control line (EIP's control bus, labelled "technical leadership"). Drafting-sheet conventions: border with zone marks, callout bubbles keyed
 to the numbered notes, a code detail and a title block that also carries contact and links.
 
 Usage:  python .readme/fetch_fonts.py && python .readme/build_hero.py      (assets/hero*.svg, link-*.svg; en and es)
@@ -23,7 +23,7 @@ INK = "#151515"
 SOFT = "#4A4F55"       # secondary lettering (contrast > 7:1 on the sheet)
 AMBER = "#F2A900"      # messages in flight; the contact row
 AMBER_TEXT = "#8A5A00"
-BUS = "#1F5FBF"        # control bus; links
+BUS = "#1F5FBF"        # control line (technical leadership); links
 
 BOLD = Face(os.path.join(FONTS, "BarlowCondensed-Bold.ttf"))
 SEMI = Face(os.path.join(FONTS, "BarlowCondensed-SemiBold.ttf"))
@@ -155,7 +155,7 @@ CODE = [
     [("        .when(needs(", INK), ('"integration"', AMBER_TEXT), (")).to(", INK), ('"camel:quarkus?kafka"', AMBER_TEXT), (")", INK)],
     [("        .when(needs(", INK), ('"ai"', AMBER_TEXT), (")).to(", INK), ('"agents:mcp?skills"', AMBER_TEXT), (")", INK)],
     [("    .end()", INK)],
-    [("    .wireTap(", INK), ('"controlbus:teams"', AMBER_TEXT), (")", INK)],
+    [("    .wireTap(", INK), ('"leadership:teams"', AMBER_TEXT), (")", INK)],
     [("    .aggregate(allBranches()).to(", INK), ('"outbound:production"', AMBER_TEXT), (");", INK)],
 ]
 CALLOUT_LINES = {2: 1, 3: 2, 4: 3, 6: 4}
@@ -214,10 +214,10 @@ def hero(lang):
     cy = 400
     ys = [256, 400, 544]
     bx0, bx1 = 430, 752
-    # Control bus: leadership and trainings steer every stage.
+    # Control line: technical leadership and trainings steer every stage. The label width varies by language.
     out.append(f'<path d="M240 186H1140" stroke="{BUS}" stroke-width="2" stroke-dasharray="9 6"/>')
-    out.append(t(bank, BOLD, "CONTROL BUS", 240, 176, 17, BUS, tracking=1))
-    out.append(t(bank, MONO, T["bus"], 352, 176, 13, BUS))
+    out.append(t(bank, BOLD, T["bus_label"], 240, 176, 17, BUS, tracking=1))
+    out.append(t(bank, MONO, T["bus"], 240 + BOLD.width(T["bus_label"], 17, 1) + 16, 176, 13, BUS))
     out.append(bubble(bank, 4, 1112, 186, color=BUS))
     for x, y2 in [(275, cy - 35), (575, ys[0] - 32), (835, cy - 35)]:
         out.append(f'<path d="M{x} 186V{y2}" stroke="{BUS}" stroke-width="1.4" stroke-dasharray="4 5"/>')
@@ -287,8 +287,12 @@ def hero_mobile(lang):
     out.append(f'<path d="{"".join(wires)}" stroke="{INK}" stroke-width="2.4" fill="none"/>')
     out.append(f'<path d="M{cx} 970V1000" stroke="{INK}" stroke-width="2.4"/>')
     out.append(f'<path d="M64 548H736" stroke="{BUS}" stroke-width="2.4" stroke-dasharray="10 7"/>')
-    out.append(t(bank, BOLD, "CONTROL BUS", 64, 538, 22, BUS, tracking=1))
-    out.append(t(bank, MONO, T["bus_m"], 222, 538, 16, BUS))
+    # The branch wires cross the control line here: a sheet-coloured backing keeps the lettering legible.
+    label_w = BOLD.width(T["bus_label"], 22, 1)
+    text_w = label_w + 18 + MONO.width(T["bus_m"], 16)
+    out.append(f'<rect x="58" y="519" width="{text_w + 12:.1f}" height="26" fill="{SHEET}"/>')
+    out.append(t(bank, BOLD, T["bus_label"], 64, 538, 22, BUS, tracking=1))
+    out.append(t(bank, MONO, T["bus_m"], 64 + label_w + 18, 538, 16, BUS))
     out.append(bubble(bank, 4, 736, 548, r=16, color=BUS))
 
     out.append(pipe(cx, 250, 130, h=36, vertical=True))
@@ -324,7 +328,7 @@ def hero_mobile(lang):
         [("  .when(", INK), ('"architecture"', AMBER_TEXT), (")", INK)],
         [("  .when(", INK), ('"integration"', AMBER_TEXT), (")", INK)],
         [("  .when(", INK), ('"ai"', AMBER_TEXT), (")", INK)],
-        [("  .wireTap(", INK), ('"controlbus:teams"', AMBER_TEXT), (")", INK)],
+        [("  .wireTap(", INK), ('"leadership:teams"', AMBER_TEXT), (")", INK)],
         [("  .to(", INK), ('"outbound:production"', AMBER_TEXT), (");", INK)],
     ]
     keyed = {2: 1, 3: 2, 4: 3, 5: 4}

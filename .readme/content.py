@@ -12,6 +12,7 @@ TEXT = {
     "en": {
         "subtitle": "Software architect, 10+ years. Fintech, banking, logistics and transportation, integrations.",
         "subtitle_m": ["Software architect, 10+ years. Fintech, banking,", "logistics and transportation, integrations."],
+        "bus_label": "TECHNICAL LEADERSHIP",
         "bus": "teams · 200+ people led · AI trainings",
         "bus_m": "teams · 200+ led · AI trainings",
         "problem": "your problem",
@@ -31,8 +32,8 @@ TEXT = {
                       "integrations. Drawn as an Enterprise Integration Patterns route: your problem enters an inbound "
                       "channel, a content-based router sends it to architecture (AWS, Azure, GCP, DDD, events), "
                       "integration (EIP, Camel, Quarkus, Kafka) or AI-native development (harness, MCP, skills, agents), "
-                      "an aggregator joins the branches and the result goes to production. Leadership and AI trainings "
-                      f"run as the control bus. Let's talk: {EMAIL}. Links: GitHub, LinkedIn, portfolio."),
+                      "an aggregator joins the branches and the result goes to production. Technical leadership and AI "
+                      f"trainings run alongside the whole route as a control line. Let's talk: {EMAIL}. Links: GitHub, LinkedIn, portfolio."),
         "notes_title": "EXPERIENCE",
         "notes": [
             (1, "ARCHITECTURE",
@@ -45,7 +46,7 @@ TEXT = {
              "AI is in every step: spec, design, code, review, release. I build agent harnesses, MCP servers, skills, "
              "agents, and the governance that lets a company trust them. Claude Code, the Anthropic and OpenAI APIs, "
              "LangChain, MCP and Hugging Face."),
-            (4, "CONTROL BUS",
+            (4, "TECHNICAL LEADERSHIP",
              "More than 200 people led over the last five years. I coach developers into senior and architect roles "
              "and run corporate AI trainings, so a whole team can work this way."),
         ],
@@ -78,6 +79,7 @@ TEXT = {
     "es": {
         "subtitle": "Arquitecto de software, 10+ años. Fintech, banca, logística y transporte, integraciones.",
         "subtitle_m": ["Arquitecto de software, 10+ años. Fintech, banca,", "logística y transporte, integraciones."],
+        "bus_label": "LIDERAZGO TÉCNICO",
         "bus": "equipos · 200+ personas lideradas · formación en IA",
         "bus_m": "equipos · 200+ lideradas · IA",
         "problem": "tu problema",
@@ -97,8 +99,8 @@ TEXT = {
                       "integraciones. Dibujado como una ruta de Enterprise Integration Patterns: tu problema entra por "
                       "un canal, un router por contenido lo envía a arquitectura (AWS, Azure, GCP, DDD, eventos), "
                       "integración (EIP, Camel, Quarkus, Kafka) o desarrollo AI-native (harness, MCP, skills, agentes), "
-                      "un agregador une las ramas y el resultado sale a producción. El liderazgo y la formación en IA "
-                      f"funcionan como control bus. Hablemos: {EMAIL}. Enlaces: GitHub, LinkedIn, portafolio."),
+                      "un agregador une las ramas y el resultado sale a producción. El liderazgo técnico y la formación en "
+                      f"IA acompañan toda la ruta como línea de control. Hablemos: {EMAIL}. Enlaces: GitHub, LinkedIn, portafolio."),
         "notes_title": "EXPERIENCIA",
         "notes": [
             (1, "ARQUITECTURA",
@@ -112,7 +114,7 @@ TEXT = {
              "IA en cada paso: especificación, diseño, código, revisión y entrega. Construyo agent harnesses, "
              "servidores MCP, skills, agentes y la gobernanza que permite a una empresa confiar en ellos. Claude Code, "
              "las APIs de Anthropic y OpenAI, LangChain, MCP y Hugging Face."),
-            (4, "CONTROL BUS",
+            (4, "LIDERAZGO TÉCNICO",
              "Más de 200 personas lideradas en los últimos cinco años. Acompaño a desarrolladores hacia roles senior y "
              "de arquitectura, y doy formación corporativa en IA para que equipos completos trabajen así."),
         ],
